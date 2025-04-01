@@ -1,0 +1,16 @@
+{
+    "description": "G-RentX Landing Page And Game Preview",
+    "domain": "is-cool.dev",
+    "subdomain": "example",
+
+    "owner": {
+        "repo": "https://github.com/TRIBUI106/G-RentX-domain",
+        "email": "chez1s@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "https://yeume-enterprise.edu.vn/G-rentX/",
+    },
+
+    "proxied": false
+}
